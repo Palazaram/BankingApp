@@ -2,7 +2,7 @@
 
 ## About the Application
 
-This is a web application developed using ASP.NET Core Web API, implementing the Onion architecture.
+This is a web application developed using `ASP.NET Core Web API`, implementing the Onion architecture.
 
 ### BankingApp.Core
 
@@ -22,7 +22,7 @@ The main project that integrates all the above components.
 
 ## Unit Testing
 
-Unit tests have been conducted for the project using the xUnit testing framework to ensure the correctness and reliability of the application's functionality.
+Unit tests have been conducted for the project using the `xUnit` testing framework to ensure the correctness and reliability of the application's functionality.
 
 ### Test Coverage
 
@@ -38,6 +38,6 @@ The following components have been thoroughly tested:
 
   - Set `BankingApp` as the default project;
   
-  - Use the Rebuild Solution command to ensure all components are correctly compiled;
+  - Use the `Rebuild Solution` command to ensure all components are correctly compiled;
   
   - Start the application.
