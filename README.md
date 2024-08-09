@@ -28,16 +28,16 @@ Unit tests have been conducted for the project using the xUnit testing framework
 
 The following components have been thoroughly tested:
 
-  -- Controllers: Validations, HTTP responses, and exception handling;
+  - **Controllers**: Validations, HTTP responses, and exception handling;
   
-  -- Services: Business logic, data manipulation, and integration with repositories;
+  - **Services**: Business logic, data manipulation, and integration with repositories;
   
-  -- Models: Data structures, validation logic, and data consistency.
+  - **Models**: Data structures, validation logic, and data consistency.
 
 ## Running the Application
 
-  -- Set `BankingApp` as the default project;
+  - Set `BankingApp` as the default project;
   
-  -- Use the Rebuild Solution command to ensure all components are correctly compiled;
+  - Use the Rebuild Solution command to ensure all components are correctly compiled;
   
-  -- Start the application.
+  - Start the application.
